@@ -18,3 +18,17 @@ https://www.youtube.com/watch?v=QWQ-LQL1owE&t=66s
 ### There was nothing in my bucket but i made file
 ![alt text](image-4.png)
 ### I change the bucket policy
+
+## I download the leafpad
+### TO download you need to do apt get update
+#### then install the leafpad
+## in cmd i cannot open the leafpad display
+## so i choose nano to use
+![alt text](image-5.png)
+### I wrote the code and i ran the code but i saw the error
+### unary operation occured in blank file or some syntax error
+### so i made dummy syntax for the safety
+
+![alt text](image-6.png)
+## Then i check the bucket there was the file even show me a unary error
+### it means i already success to upload the error
