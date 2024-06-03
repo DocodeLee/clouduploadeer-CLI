@@ -6,3 +6,15 @@
 https://www.youtube.com/watch?v=QWQ-LQL1owE&t=66s
 #### I follow this guide-line
 ### 1. make a account in AWS
+![first line with kali](image.png)
+## Now i get into the kali linux connected to AWS cloud
+![alt text](image-1.png)
+### And to move into kali i copy the file in to trashbox and copy to the /Downloads in kali
+![alt text](image-2.png)
+### I failed to run in kali so i am on my cmd to run aws
+## aws configure
+## got the access key from the AWS web-site
+![alt text](image-3.png) 
+### There was nothing in my bucket but i made file
+![alt text](image-4.png)
+### I change the bucket policy
